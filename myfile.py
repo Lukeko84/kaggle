@@ -7,3 +7,9 @@ print("What is this?")
 a = 4 + 10
 
 print(f"Result is {a}")
+
+b = 3 + a
+print(f"Result of b is {b}")
+
+c = a + b
+print(f"Result of c is {c}")
