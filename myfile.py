@@ -19,3 +19,5 @@ print(d)
 
 e = 2*a  + d
 print(e)
+
+print("This is an important bugfix before the release of the first version")
