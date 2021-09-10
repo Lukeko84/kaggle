@@ -14,3 +14,4 @@ print(f"Result of b is {b}")
 c = a + b
 print(f"Result of c is {c}")
 d = a + b + c
+e = 2*a  + d
