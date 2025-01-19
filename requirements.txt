@@ -3,3 +3,6 @@ pandas
 numpy
 matplotlib
 prophet
+seaborn
+plotly
+nbformat
